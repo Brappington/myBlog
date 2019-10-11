@@ -43,7 +43,7 @@ Inside this projects directory we can run several commands:
 
 ## App Structure
 
-![](Untitled-c3e716f3-f477-489a-8126-f53c973ecd15.png)
+![](./images/movie-search-app-structure.png)
 
 There will be 4 components in this app:
 
