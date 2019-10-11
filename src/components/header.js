@@ -6,7 +6,7 @@ import _ from "lodash"
 import "./header.css"
 
 const Header = ({ siteTitle }) => (
-  <nav className="navbar navbar-expand-md navbar-dark">
+  <nav className="navbar navbar-expand-md">
     <a className="navbar-brand" href="#">
       {siteTitle}
     </a>

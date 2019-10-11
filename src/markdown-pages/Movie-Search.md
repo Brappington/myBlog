@@ -5,10 +5,11 @@ title: "Movie Search App"
 tags: ["react"]
 ---
 
-Using this tutorial i was able to make a simple react app with hooks. 
-[Movie Search App](https://moviesearch-app.herokuapp.com/)
+Using this tutorial i was able to make a simple react app with hooks.
 
-[How to build a movie search app using React Hooks](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
+Tutorial: [How to build a movie search app using React Hooks](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
+
+My version: [Movie Search App](https://moviesearch-app.herokuapp.com/)
 
 ## Tech Stack & Features
 
@@ -43,7 +44,7 @@ Inside this projects directory we can run several commands:
 
 ## App Structure
 
-![](./images/movie-search-app-structure.png)
+![](../images/movie-search-app-structure.png)
 
 There will be 4 components in this app:
 
@@ -276,7 +277,7 @@ This lets us add React state to function components. The `useState` hook accepts
 
 We are passing our current state as the value for the search input field. When the onChange event is called the `handleSearchInputChanges` function is called which calls the state update function with the new value. The resetInputField function basically called the state update function (setSearchValue) with an empty string in order to clear the input field
 
-### Update `App.js`
+### Update App.js
 
 Update App.js with the following code:
 

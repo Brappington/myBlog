@@ -1,10 +1,38 @@
+@font-face {
+  font-family: "myFont";
+  src: url(../font/Inter/Inter-Regular.woff);
+}
+
+:root {
+  --bgColor: #282a36;
+  --purpleColor: #bd93f9;
+  --titleFont: "myFont";
+}
 
 .navbar-brand {
   font-size: 20px;
   margin-top: -20px;
+  color: var(--purpleColor) !important;
+  font-family: var(--titleFont);
 }
 nav.navbar {
   padding-bottom: 0px;
   height: 60px;
-  
+  color: var(--purpleColor) !important;
+  font-family: var(--titleFont);
+}
+
+a.nav-link {
+  color: var(--purpleColor) !important;
+  font-family: var(--titleFont);
+}
+
+.dropdown-menu {
+  background-color: var(--bgColor) !important;
+  font-family: var(--titleFont);
+}
+
+.dropdown-item {
+  color: var(--purpleColor) !important;
+  font-family: var(--titleFont);
 }
