@@ -271,7 +271,7 @@ Using hooks we can have a functional component handle its own state (class compo
     
     export default Search;
 
-#### `useState`
+#### useState
 
 This lets us add React state to function components. The `useState` hook accepts one argument which is the initial state, and then it returns an array containing the current state and a function to update it. 
 
@@ -352,7 +352,7 @@ Then comes the second hooks API in this app: the `useEffect` hook. This hook let
 
 If you’re familiar with React class lifecycle methods, you can think of `useEffect` Hook as `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount` combined.
 
-#### `useReducer`
+#### useReducer
 
 We can use the hook `useReducer` to combine the 3 useState functions.
 
