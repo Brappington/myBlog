@@ -7,7 +7,7 @@ import "./header.css"
 
 const Header = ({ siteTitle }) => (
   <nav className="navbar navbar-expand-md">
-    <a className="navbar-brand" href="#">
+    <a className="navbar-brand" href="https://jackpowell.dev/">
       {siteTitle}
     </a>
 <button
