@@ -2,7 +2,7 @@
 path: "/blog/creating-this-blog"
 date: "10-10-2019"
 title: "Creating this blog"
-tags: ["gatsby"]
+tags: ["Blog"]
 ---
 
 Using this [tutorial](https://blog.bitsrc.io/how-to-build-a-blog-with-gatsby-and-boostrap-d1270212b3dc?gi=b9dce82cee2c) i was able to build this blog and customise it to my liking.

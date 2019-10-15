@@ -2,7 +2,7 @@
 path: "/blog/creating-this-blog"
 date: "12-10-2019"
 title: "Movie Search App"
-tags: ["react"]
+tags: ["Movie Search"]
 ---
 
 Using this tutorial i was able to make a simple react app with hooks.
