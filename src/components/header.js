@@ -68,7 +68,7 @@ const Header = ({ siteTitle }) => (
   </nav>
 )
 Header.propTypes = {
-  siteTitle: PropTypes.string,
+  siteTitle: PropTypes.string,ø
 }
 Header.defaultProps = {
   siteTitle: `JackPowell.dev`,
