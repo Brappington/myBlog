@@ -29,7 +29,7 @@ Initial list:
 - 21 lessons for the 21st century by Yuval Noah Harari 
 ## Blue
 I want Blue to have a happy and healthy 1st year and will probably just post nice pictures of her, her weight and age for each blog post.
-![](Year%20of%20Renewal%20-%20Jan%202020/B4FECD2E-31C4-457D-A270-C0D733B29DB1.png)
+![](images/blueJan.png)
 Blue is now fully vaccinated and able to go for walks and be out in public. 
 Weight: 3.8 kg
 Age: 3 months
