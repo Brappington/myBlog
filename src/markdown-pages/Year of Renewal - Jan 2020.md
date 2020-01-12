@@ -16,6 +16,7 @@ My initial Projects:
 - MP Twitter (updating it to include the cabinet and shadow cabinet
 - Tidal App (To learn a cross platform framework)
 - Local App solving local problem (To learn more about finding problems and creating solutions)
+
 ## Reading
 Without putting targets on myself id like to average reading a book a month and write a short review to see what I learnt from it. Can include coding books, nonfiction or fiction. I have just finished Identity and will review it in my February blog post.
 Initial list:
@@ -26,7 +27,8 @@ Initial list:
 - Dishonesty is the Second-Best Policy: And Other Rules to Live by David Mitchell
 - The ministry of truth by Dorian Lynsky
 - Your first year in code by Isaac Lyman
-- 21 lessons for the 21st century by Yuval Noah Harari 
+- 21 lessons for the 21st century by Yuval Noah Harari
+
 ## Blue
 I want Blue to have a happy and healthy 1st year and will probably just post nice pictures of her, her weight and age for each blog post.
 ![](images/blueJan.png)
