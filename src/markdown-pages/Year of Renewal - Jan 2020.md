@@ -1,10 +1,9 @@
 ---
     path: "/blog/Jan2020"
-    date: "2020-01-12"
+    date: "2020-12-01"
     title: "Year of Renewal - Jan 2020"
     tags: ["personal"]
 ---
-# Year of Renewal - Jan 2020
 I’m writing this blog so that I can enforce some personal accountability. This year I endeavour to write a monthly blog that talks about the progress I have made that month in 4 areas: **Career**, **Learning**, **Reading** and **Blue.**
 ## Career
 While I don’t require a job this year, I’d like to aim for one. Once I have settled I am. hooping too each the job search.
