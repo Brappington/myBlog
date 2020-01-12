@@ -31,7 +31,7 @@ Initial list:
 
 ## Blue
 I want Blue to have a happy and healthy 1st year and will probably just post nice pictures of her, her weight and age for each blog post.
-![](images/blueJan.png)
+![](/images/blueJan.png)
 Blue is now fully vaccinated and able to go for walks and be out in public. 
 Weight: 3.8 kg
 Age: 3 months
