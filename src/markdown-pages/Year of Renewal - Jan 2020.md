@@ -4,7 +4,6 @@
     title: "Year of Renewal - Jan 2020"
     tags: ["personal"]
 ---
-# Year of Renewal - Jan 2020
 I’m writing this blog so that I can enforce some personal accountability. This year I endeavour to write a monthly blog that talks about the progress I have made that month in 4 areas: **Career**, **Learning**, **Reading** and **Blue.**
 ## Career
 While I don’t require a job this year, I’d like to aim for one. Once I have settled I am. hooping too each the job search.
@@ -31,7 +30,7 @@ Initial list:
 
 ## Blue
 I want Blue to have a happy and healthy 1st year and will probably just post nice pictures of her, her weight and age for each blog post.
-![](/images/blueJan.png)
+![](blueJan.png)
 Blue is now fully vaccinated and able to go for walks and be out in public. 
 Weight: 3.8 kg
 Age: 3 months
