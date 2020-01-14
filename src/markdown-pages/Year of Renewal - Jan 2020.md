@@ -2,6 +2,7 @@
     path: "/blog/Jan2020"
     date: "2020-12-01"
     title: "Year of Renewal - Jan 2020"
+    featuredImage: blueJan.png
     tags: ["personal"]
 ---
 I’m writing this blog so that I can enforce some personal accountability. This year I endeavour to write a monthly blog that talks about the progress I have made that month in 4 areas: **Career**, **Learning**, **Reading** and **Blue.**
@@ -30,7 +31,7 @@ Initial list:
 
 ## Blue
 I want Blue to have a happy and healthy 1st year and will probably just post nice pictures of her, her weight and age for each blog post.
-![](https://photos.app.goo.gl/R2drKrD23judmtGf6)
+![](blueJan.png)
 Blue is now fully vaccinated and able to go for walks and be out in public. 
 Weight: 3.8 kg
 Age: 3 months
